@@ -4,7 +4,7 @@ numbpar = list(filter(lambda i : i%2 == 0, lista))
 numbImpar = list(filter(lambda i : i%2 != 0, lista))
 
 
-valor = 0
+valor = 0 
 for i in lista:
     valor = valor + i
 
