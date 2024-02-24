@@ -3,7 +3,8 @@ import itertools
 
 def testar_senha(arquivo_rar, senha):
     try:
-        resultado = subprocess.run(['C:\\Program Files\\WinRAR\\rar.EXE', 'x', '-p' + senha, '--', arquivo_rar], check=True)
+        resultado = subprocess.run(['rar', 'x', '-p' + senha, '--', arquivo_rar], check=True)
+
         
         # Verificar o código de saída
         if resultado.returncode == 0:
