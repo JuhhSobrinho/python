@@ -1,6 +1,6 @@
 # python
 
-a linguagem da cobrinha 🐍. Contribute to JuhhSobrinho/python development by creating an account on GitHub.
+Descrição do projeto em breve.
 
 ## Sobre
 
@@ -8,7 +8,7 @@ Projeto desenvolvido por [Juliano Sobrinho](https://github.com/JuhhSobrinho).
 
 ## Tecnologias
 
-Arquivos principais do projeto: `.py`, `.rar`, `.txt`, `.png`, `.json.
+Arquivos principais do projeto: `.py`, `.rar`, `.txt`, `.png`, `.md`.
 
 ## Como executar
 
